@@ -1,7 +1,5 @@
 # Bài 1
-git clone https://github.com/le-van-an/191133100062_Le_Van_An_bai_tap.git
-cd 191133100062_Le_Van_An_bai_tap
-
+git clone https://github.com/TranThanhTung19A1/25174600021_Tran_Thanh_Tung_Bai_Tap.git
 # Bài 2
 echo "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer efficitur, eros at
 lacinia suscipit, magna turpis aliquam est, sit amet aliquam quam libero id mi. Ut vel
